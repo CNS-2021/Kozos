@@ -4,9 +4,4 @@ felix
 zxxz
 cxzcxzcxz
 xsaa
-<<<<<<< HEAD
 Agoston
-=======
-
-vali
->>>>>>> 1e63349ab3574fd6fef1c8fe9a7286510cea6c45

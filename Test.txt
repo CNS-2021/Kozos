@@ -1,10 +1,5 @@
 tseste
-<<<<<<< HEAD
-balint
-na
-=======
 Mark
->>>>>>> 1e63349ab3574fd6fef1c8fe9a7286510cea6c45
 felix
 zxxz
 cxzcxzcxz
@@ -13,5 +8,5 @@ Erik
 vali
 matyas
 zozo
-Agoston
+K.Sz.Agoston
 peter
